@@ -8,7 +8,7 @@
 
 ## Descripción general del dataset
 
-El dataset corresponde a los resultados de las revisiones técnico-mecánicas de varias topologías de vehículos en CDAs (Centros de Diagnóstico Automotor) en todo el país entre los años 2014 y 2022, incluye algunos valores cualitativos y otros cuantitativos. La cantidad de registros se estima en 9'000.000, organizados en 35 variables.
+El dataset corresponde a los resultados de las revisiones técnico-mecánicas de varias topologías de vehículos en CDAs (Centros de Diagnóstico Automotor) en todo el país entre los años 2014 y 2022, incluye algunos valores cualitativos y otros cuantitativos. La cantidad de registros se estima en 900.000, organizados en 35 variables.
 
 Es de anotar que algunos datos no aplican para algunos tipos de vehículo, por ejemplo, las motocicletas no cuentan con valores cuantitativos del estado de la suspensión, y los vehículos que funcionan con combustible diesel no tienen valores en los campos de emisiones de HC, CO, CO2 ni O2 (sus emisiones se miden en porcentaje de opacidad)
 
